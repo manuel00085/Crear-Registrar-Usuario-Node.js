@@ -15,7 +15,7 @@ Para iniciar el servidor
 
 6- Ejecutar el Comando npm install json-server (esperar hasta que se instale por completo)
 
-7- Ejecutar el Comando npm run servidor 
+7- Ejecutar el Comando npm run server 
 
 8- Ya en ejecucion el servidor abrir con live server 
 
